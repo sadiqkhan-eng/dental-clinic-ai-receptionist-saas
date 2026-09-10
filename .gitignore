@@ -40,3 +40,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .vercel
+
+# mobile app
+mobile/
+
+# project docs (keep local)
+dentalos-project-prompt.md
+opencode_agents.md
+opencode_mcp_setup.md
+opencode_skills.md
